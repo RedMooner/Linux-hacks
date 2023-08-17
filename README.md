@@ -1,1 +1,1 @@
-
+Linux is a computer operating system originally developed by Linus Torvalds in 1991. Linux is open source software with public source code, which allows users to freely study, modify and distribute it.
