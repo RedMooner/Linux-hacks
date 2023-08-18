@@ -7,3 +7,4 @@ Linux is a computer operating system originally developed by Linus Torvalds in 1
 
 ## Terminal (Bash)
 * [Bash prompt string (ru)](https://github.com/RedMooner/Linux-hacks/wiki/Bash-prompt-string-(ru))
+* [Most popular commands list](https://github.com/RedMooner/Linux-hacks/wiki/Most-poupular-commands-list-(ru))
